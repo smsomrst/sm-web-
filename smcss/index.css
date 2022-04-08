@@ -1,0 +1,230 @@
+*{margin:0px;
+	padding:0px:
+	}
+	section#all {
+    width: 1540px;
+    margin: auto;
+}
+	section#header {
+    width: 1540px;
+    margin: auto;
+    border: px solid red;
+}
+.header{margin:auto;
+	float:left;
+	background:; 
+	background :black; 
+	width:1540px;
+	height:404px;
+}
+.frist.h {
+    color: white;
+    float: left;
+    width: 790px;
+    height: 76px;
+    margin-left: 35px;
+    margin-top: 30px;
+    border: px solid green;
+    font-size: 27px;
+    font-weight: bold;
+}
+a.as {
+    margin-top: -18px;
+    color: white;
+    float: left;
+    margin-left: 605px;
+    width: 200px;
+}
+.socal {
+    margin-left: 143px;
+    margin-top: 44px;
+    float: left;
+    border: px solid;
+    width: 552px;
+    height: 60px;
+}
+img.fpic {
+	 cursor: pointer;
+    max-height: 100%;
+    max-width: 100%;
+}
+img.inspic {	 cursor: pointer;
+    \ float: left\
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 22px;
+}
+img.skyspic {	 cursor: pointer;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 20px;
+}
+img.skyspic {
+	 cursor: pointer;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 20px;
+}
+.benlogo {
+    background-image: linear-gradient(101deg, #111111e6, #000000d6);
+    float: left;
+    height: 300px;
+    width: 1540px;
+}
+img.logo {
+    float: left;
+    margin-left: 35px;
+    max-height: 100%;
+}
+img.bener {
+    float: left;
+    max-height: 100%;
+    max-width: 100%;
+    width: 1228px;
+}
+.manu {
+    word-spacing: 5px;
+    float: left;
+    margin-top: -175px;
+    width: 597px;
+    height: 116px;
+    font-size: 21px;
+    margin-left: 328px;
+    line-height: 65px;
+}
+a.man {
+    background: #a39b8b;
+    color: white;
+    border-radius: 34px;
+    text-decoration: none;
+    padding: 9px;
+    margin-left: 10px;
+}
+section#continer {
+    width: 1540px;
+    margin: auto;
+    border: px solid red;
+}
+.pichome {
+    background: ;
+    float: left;
+    width: 1540px;
+    height: 500px;
+}
+img.mypic {
+    float: left;
+    max-width: 100%;
+    max-height: 100%;
+}
+.continerchaild {
+    width: 1040px;
+    background: ;
+    height: 500px;
+    float: left;
+    background-image: linear-gradient(274deg, #000000c2, #514545e8,#221e1e,black);
+}
+.chaild2 {
+    text-align: center;
+    max-width: 100%;
+    float: left;
+    margin-top: 110px;
+    margin-left: 0px;
+    width: 1097px;
+     padding-bottom: 20px;
+    border-bottom: 2px solid white;
+}
+a.sss {
+    text-decoration: none;
+    padding: 20px;
+    font-size: 21px;
+    color: wheat;
+    font-weight: bold;
+}
+.about {
+    float: left;
+    width: 762px;
+     background: ;
+    margin-top: 40px;
+    margin-left: 215px;
+  
+}
+button {
+    cursor: pointer;
+    border-radius: 15px;
+    background: #7a4444;
+    padding: 9px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    font-weight: 500;
+}
+.Story {
+    float: left;
+    margin-left: 223px;
+    margin-top: 30px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    width: 500px;
+    line-height: 32px;
+}
+
+section#continer2 {
+    float: left;
+    margin: auto;
+    width: 1540px;
+    height: 500px;
+   
+}
+img.myphoto {
+    float: left;
+    width: 1540px;
+	max-height: 100%;
+}
+.Temp {
+    color: white;
+    background-image: linear-gradient(281deg, #2f282894, #00000029,black);
+    float: left;
+    width: 1540px;
+    height: 500px;
+    margin-top: -500px;
+}
+h1.tem {
+    margin-top: 104px;
+    border-radius: 122px;
+    margin-left: 62px;
+
+    background: radial-gradient(#00000000, #e1bebe66,#0000007d);
+    width: 395px;
+    text-align: center;
+    font-size: 56px;
+
+}
+h1.tem {
+    border-radius: 53px;
+    font-size: 30px;
+    background: radial-gradient(#ffd5d5a6, black,#0000001a,#ffd5d5a6);
+    width: 278px;
+ 
+    text-align: center;
+    background-blend-mode: soft-l;
+    padding: 10px;
+    margin-top: 188px;
+    margin-left: 140px;
+}
+p.pp {
+    text-shadow: 4px 3px 8px white;
+    background: radial-gradient( #000000, #00000054,#000000d4,#00000036);
+    background: (97deg, #0000007a, #000000b3,black,black);
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 11px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+    line-height: 40px;
+    padding: 23px;
+    border-radius: 80px;
+}
